@@ -35,7 +35,5 @@ Deep learning | Keras | Python | AJAX | Bootstrap | Pycharm IDE :computer:
 
 ### Connect with me :point_down:
 
-[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/akshay-kumar-c-p/)
-[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/youtube.svg" />](https://www.youtube.com/channel/UC3l8RTE3zBRzUrHbSXpx-qA)
-[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/github.svg" />](https://github.com/Akshaykumarcp)
-[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/medium.svg" />](https://medium.com/@akshai.148)
+[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/abdul-ameer/)
+[<img align="left" alt="" width="22px" src="https://simpleicons.org/icons/github.svg" />](https://github.com/ameerkings123)
